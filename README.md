@@ -1,8 +1,17 @@
-# ![Project Logo](https://grow.empress.eco/uploads/default/original/2X/1/1f1e1044d3864269d2a613577edb9763890422ab.png Rides Management: Your Key to Efficient Transportation Operations
+<div align="center">
+
+<img src="https://grow.empress.eco/uploads/default/original/2X/1/1f1e1044d3864269d2a613577edb9763890422ab.png" alt="Logo" width="80" height="80">
+
+Rides Management: Your Key to Efficient Transportation Operations
 
 Welcome to Rides Management, a robust tool designed to elevate your transport operations, whether you're in taxi services, delivery, or large-scale logistics. Simplify your processes, reduce inefficiencies, and provide superior service with ease and efficiency. 
 
 For more information, visit our [website](https://empress.eco/) or get in touch with our [support team](https://grow.empress.eco/).
+
+</div>
+
+
+
 
 ## About The Project
 
